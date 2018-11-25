@@ -1,12 +1,12 @@
-body {
-    background-color: powderblue;
+body{
+	background-image: url(anh.jpg);
 }
-h1 {
-    color: blue;
+style{
+	font-style: italic;
+	
+
 }
-p {
-    color: red;
-}
-li {
-  color:grey;
+h1{
+		color: #40ff00;
+
 }
